@@ -9,14 +9,14 @@
 		<DocumentationFile>..\bin\$(Configuration)\net6.0\ARSoft.Tools.Net.xml</DocumentationFile>
 		<Nullable>enable</Nullable>
 		<AssemblyOriginatorKeyFile>C:\Users\Alexander Reinert\source\repos\arsoft.pfx</AssemblyOriginatorKeyFile>
-		<Title>ARSoft.Tools.Net - C#/.Net DNS client/server, SPF and SenderID Library</Title>
-		<Authors>Alexander Reinert</Authors>
-		<Description>This project contains a complete managed .Net DNS and DNSSEC client, a DNS server and SPF and SenderID validation.</Description>
-		<PackageProjectUrl>https://github.com/alexreinert/ARSoft.Tools.Net</PackageProjectUrl>
+		<Title>ARSoft.Tools.Net.HL (ARSoft.Tools.Net fork) - C#/.Net DNS client/server, SPF and SenderID Library</Title>
+		<Authors>Alexander Reinert, Håkan Lindqvist</Authors>
+		<Description>This project contains a complete managed .Net DNS and DNSSEC client, a DNS server and SPF and SenderID validation. Fork of ARSoft.Tools.Net.</Description>
+		<PackageProjectUrl>https://github.com/hlindqvist/ARSoft.Tools.Net</PackageProjectUrl>
 		<PackageTags>dns dnssec spf</PackageTags>
-		<PackageLicenseUrl>https://github.com/alexreinert/ARSoft.Tools.Net/blob/master/LICENSE</PackageLicenseUrl>
+		<PackageLicenseUrl>https://github.com/hlindqvist/ARSoft.Tools.Net/blob/master/LICENSE</PackageLicenseUrl>
 		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-		<Copyright>Copyright 2010..2022 Alexander Reinert</Copyright>
+		<Copyright>Copyright 2010..2023 Alexander Reinert, Håkan Lindqvist</Copyright>
 		<VersionPrefix>3.1.0</VersionPrefix>
 	</PropertyGroup>
 
