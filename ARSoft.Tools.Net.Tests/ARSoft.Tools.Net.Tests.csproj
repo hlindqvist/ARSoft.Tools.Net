@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ARSoft.Tools.Net\ARSoft.Tools.Net.csproj" />
+    <ProjectReference Include="..\ARSoft.Tools.Net\ARSoft.Tools.Net.HL.csproj" />
   </ItemGroup>
 
 </Project>
